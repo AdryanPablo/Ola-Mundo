@@ -10,17 +10,17 @@
 - [ ] PHP
 - [ ] Git e GitHub
 
-### Cursos:
+### Idiomas:
 
-- Algoritmo
-   - VisualG
-   - Portugol Studio
-- HTML
-- Javascript
-- Python
-- PHP
-- Git e GitHub
+- Inglês
+   - Americano
+   - Britânico
+- Espanhol
+- Mandarim
+- Português
+- Árabe
+- Japonês
 
 Acesse meu [GitHub](github.com/AdryanPablo)
 
-![Vinyltocat](https://octodex.github.com/images/vinyltocat.png)
+![Vinyltocat](https://octodex.github.com/images/vinyltocat.png | width=100)

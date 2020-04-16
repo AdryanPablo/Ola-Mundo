@@ -23,4 +23,4 @@
 
 Acesse meu [GitHub](github.com/AdryanPablo)
 
-![Vinyltocat](https://octodex.github.com/images/vinyltocat.png | width=100)
+![Vinyltocat](https://octodex.github.com/images/vinyltocat.png)

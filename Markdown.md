@@ -21,6 +21,16 @@
 - Árabe
 - Japonês
 
+### Países, Adjetivo Pátrio e Idioma
+
+País | Adj. Pátrio | Idioma
+--- | --- | ---
+Brasil | Brasileiro (a) | Português
+Estado Unidos | Americano (a) | Inglês
+Argentina | Argentino (a) | Espanhol
+
+`console.log('Hello, world!')`
+
 Acesse meu [GitHub](github.com/AdryanPablo)
 
 ![Vinyltocat](https://octodex.github.com/images/vinyltocat.png)

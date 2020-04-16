@@ -33,4 +33,4 @@ Argentina | Argentino (a) | Espanhol
 
 Acesse meu [GitHub](github.com/AdryanPablo)
 
-![Vinyltocat](https://octodex.github.com/images/vinyltocat.png)
+![Vinyltocat](./imagens/vinyltocat.png)

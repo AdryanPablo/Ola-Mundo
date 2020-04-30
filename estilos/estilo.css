@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+}
+
+.títulos {
+    font-size: 30pt;
+    font-weight: bold;
+    color: #333;
+}
+
+.subtítulos {
+    font-size: 20pt;
+    font-weight: normal;
+    color: #333;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
